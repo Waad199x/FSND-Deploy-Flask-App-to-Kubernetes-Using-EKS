@@ -1,0 +1,26 @@
+<<<<<<< HEAD
+{
+ "Version": "2012-10-17",
+ "Statement": [
+     {
+         "Effect": "Allow",
+         "Principal": {
+             "AWS": "arn:aws:iam::978855859471:root"
+         },
+         "Action": "sts:AssumeRole"
+     }
+ ]
+=======
+{
+ "Version": "2012-10-17",
+ "Statement": [
+     {
+         "Effect": "Allow",
+         "Principal": {
+             "AWS": "arn:aws:iam::978855859471:root"
+         },
+         "Action": "sts:AssumeRole"
+     }
+ ]
+>>>>>>> 4acfc300a66311a1f5ea85dccc6d2b3966d6ff24
+}

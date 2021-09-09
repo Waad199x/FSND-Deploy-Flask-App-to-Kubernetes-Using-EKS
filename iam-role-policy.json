@@ -1,0 +1,18 @@
+<<<<<<< HEAD
+{
+ "Version": "2012-10-17",
+ "Statement":[{
+     "Effect": "Allow",
+     "Action": ["eks:Describe*", "ssm:GetParameters"],
+     "Resource":"*"
+ }]
+=======
+{
+ "Version": "2012-10-17",
+ "Statement":[{
+     "Effect": "Allow",
+     "Action": ["eks:Describe*", "ssm:GetParameters"],
+     "Resource":"*"
+ }]
+>>>>>>> 4acfc300a66311a1f5ea85dccc6d2b3966d6ff24
+}
